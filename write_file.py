@@ -1,0 +1,5 @@
+file=open("data.txt","w")
+file.write("This is my first file.\n")
+file.write("I'm, anand currently pursuing M.sc statistics in University of hyderabad")
+file.close()
+print("data entered succesfully")
