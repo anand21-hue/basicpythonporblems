@@ -1,0 +1,8 @@
+# Mini Projects – Python & Pandas
+
+This folder contains beginner-to-intermediate Python mini projects
+focused on file handling and data analysis using Pandas.
+
+## Projects
+- pandas_basic_analysis.py – Reads student data and performs basic analysis
+- pandas_filtering.py – Filters students based on marks
